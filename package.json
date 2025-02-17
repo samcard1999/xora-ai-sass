@@ -5,7 +5,6 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "preinstall": "npm install --force",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
